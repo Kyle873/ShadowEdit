@@ -1,0 +1,4 @@
+Possible Todo's to reach 2.0 if I'm not lazy, I guess:
+
+- Rename form controls properly
+- Contacts editor
