@@ -22,6 +22,8 @@ namespace ShadowEdit
         int spellOffset = 0;
         int runners = 0;
 
+		// TODO: back when I didn't know about multi-dimensional arrays, haha
+		
         string[] area0 =
         {
             "00 - Seattle Gen. Hospital",
@@ -103,6 +105,7 @@ namespace ShadowEdit
         };
 
         // TODO: stop being lazy and rename form controls :P
+		// Future self to past self: it's called refactoring
         public MainForm()
         {
             InitializeComponent();
